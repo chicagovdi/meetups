@@ -1,3 +1,3 @@
 # cugc
 
-Use this folder to share and collaborate on CUGC meetup resources.
+Archive of past CUGC meeting resources.
